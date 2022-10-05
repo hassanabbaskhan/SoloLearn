@@ -1,9 +1,3 @@
-#!/usr/bin/env python
-# coding: utf-8
-
-# In[2]:
-
-
 #this is any exercise of how to break the while loop using conditional statements
 #starting with i=0
 
@@ -16,10 +10,3 @@ while True:
     if i>=5: 
         print("Breaking Loop")
         break
-
-
-# In[ ]:
-
-
-
-
