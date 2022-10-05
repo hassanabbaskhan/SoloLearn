@@ -1,9 +1,3 @@
-#!/usr/bin/env python
-# coding: utf-8
-
-# In[6]:
-
-
 #just remember, continue statment skip an iteration in loop, break statment stops the loop
 #continue while loop combination
 #if we use while loop and need to add some conditional statements to carry forward during the loop,
@@ -18,11 +12,3 @@ while i<5:
         print("Skipping 3")
         continue
     print(i)
-    
-
-
-# In[ ]:
-
-
-
-
