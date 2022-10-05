@@ -1,9 +1,3 @@
-#!/usr/bin/env python
-# coding: utf-8
-
-# In[2]:
-
-
 #let's prepare a BMI app (Body Mass Index)
 #use persons height and weigth and output the BMI score.
 #BMI = weight / sq. of height >> weight in kg and heigth in meters.
@@ -29,10 +23,3 @@ elif BMI >=25 and BMI <30:
     print("You are overweight \n")
 else:
     print("Obesity")
-
-
-# In[ ]:
-
-
-
-
