@@ -1,9 +1,3 @@
-#!/usr/bin/env python
-# coding: utf-8
-
-# In[6]:
-
-
 """here is the game mode.
 you are making a game, in which player tries to shoot something, so either he misses or hit it.
 The player starts with 100 points. 
@@ -29,10 +23,3 @@ while i <4:
         points-=20
         i+=1
 print("The Total Points will be",points)
-
-
-# In[ ]:
-
-
-
-
