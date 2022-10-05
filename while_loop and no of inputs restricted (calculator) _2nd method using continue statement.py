@@ -1,9 +1,3 @@
-#!/usr/bin/env python
-# coding: utf-8
-
-# In[2]:
-
-
 '''Here is the problem statement.
 
 You are making a ticketing system.
@@ -27,10 +21,3 @@ while i<5: # no of iterations will be 0, 1, 2, 3, 4
     total=total+100 #otherwise the formula will be carried.
     
 print("the total price will be $",total) #remove the indentation to display the total after inputs are done.
-
-
-# In[ ]:
-
-
-
-
