@@ -1,9 +1,3 @@
-#!/usr/bin/env python
-# coding: utf-8
-
-# In[11]:
-
-
 '''Here is the problem statement.
 
 You are making a ticketing system.
@@ -21,6 +15,3 @@ while i>0:
     if age>3:
         total+=100
 print("The total price will be $",total)
-
-
-# 
