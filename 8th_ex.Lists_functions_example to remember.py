@@ -1,9 +1,3 @@
-#!/usr/bin/env python
-# coding: utf-8
-
-# In[35]:
-
-
 """
 no of lists functions include
 
@@ -40,10 +34,3 @@ list.extend("abc") #these will be added at the end, each letter separated
 print(list)
 list.pop(0) #item at index 1 will be deleted.
 print(list)
-
-
-# In[ ]:
-
-
-
-
