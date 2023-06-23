@@ -1,1 +1,9 @@
-#working on pi (π
+#working on pi (π)
+
+from math import pi
+
+π=pi #valid variable identifier
+
+print(π)
+print (round(π,2)) # round it to 2 decimal places
+
